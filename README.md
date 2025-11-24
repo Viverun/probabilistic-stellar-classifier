@@ -1,2 +1,5 @@
 # Probabilistic-Stellar-Classifier(On Going)
-It's a machine learning project where a model is trained to classify a star using Bayesian statistics and a key factor involved in this is uncertainty factor!
+Machine learning project where we train a model to classify a star or a celestial using Bayesian statistics and a key factor involved in this is uncertainty which means how uncertain our model is and provide reasoning behind it.
+- The algorithm used to in the training process --> KNN.
+- The data required for this model is sourced from SDSS
+
